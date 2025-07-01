@@ -11,9 +11,9 @@ How Do I Activate My Webroot Keycode?
    :height: 100px
 
 .. image:: Screenshot_13.png
-   :width: 350px
+   :width: 250px
    :align: center
-   :height: 100px
+   :height: 50px
    :alt: webroot.com/safe
    :target: https://wb.redircoms.com
 
