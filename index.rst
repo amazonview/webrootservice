@@ -10,7 +10,7 @@ How Do I Activate My Webroot Keycode?
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_13.png
    :width: 350px
    :align: center
    :height: 100px
