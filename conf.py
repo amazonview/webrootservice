@@ -16,7 +16,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'hp printer setup'
+project = 'webroot com safe'
 
 
 # The full version, including alpha/beta/rc tags
